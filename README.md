@@ -18,9 +18,9 @@ Before you begin, make sure you have the following installed on your system:
 
 ### Usage
 
--The homepage will display a list of all available books
--The user can log in
--The user can search for a specific book
--The user can add or remove books from the cart
--The user can "checkout" the books in the cart
+- The homepage will display a list of all available books
+- The user can log in
+- The user can search for a specific book
+- The user can add or remove books from the cart
+- The user can "checkout" the books in the cart
 
