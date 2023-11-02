@@ -4,7 +4,7 @@ from models import db, User, Book, Cart
 app = Flask(__name__)
 
 #Make sure to set up config 
-app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://username:password:localhost:5432:axlehealthdb'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://username:password:localhost:5432:databasename'
 
 db.init_app(app)
 
